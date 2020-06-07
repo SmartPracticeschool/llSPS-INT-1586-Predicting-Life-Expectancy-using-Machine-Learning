@@ -20,3 +20,23 @@ The scope of this project is to predict the guesstimate given my current knowled
 1. Create a data model present on the database.
 2. The dataset are made available to the public to the purpose of health data  analysis.
 3.It is related to the different countries depending on the different countries while finding the dataset in different countries might be difficult and hence we decided that we exclude these countries from the final dataset.
+
+
+### Technical Requirements :
+1. The merged dataset by using the databases in the csv formats.
+2. We can use datasets with the help of machine learning and data science with the help of pyhton.
+
+### Software Requirements :
+1. Python IDE
+2. Excel
+3. IBM Cloud
+4. IBM Watson 
+5. Node-RED 
+
+
+### Project Team:
+Individual
+
+### Reference: 
+https://www.kaggle.com/kumarajarshi/life-expectancy-who
+
