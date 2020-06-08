@@ -34,8 +34,7 @@ The scope of this project is to predict the guesstimate given my current knowled
 5. Node-RED 
 
 
-### Project Team:
-Individual
+
 
 ### Reference: 
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
