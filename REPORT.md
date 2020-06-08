@@ -33,8 +33,5 @@ The scope of this project is to predict the guesstimate given my current knowled
 4. IBM Watson 
 5. Node-RED 
 
-
-
-
 ### Reference: 
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
